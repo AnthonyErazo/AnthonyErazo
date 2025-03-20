@@ -12,7 +12,9 @@
 
 <h1 align="center"><b>Hi , I'm Anthony Erazo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<p align="center">
+  <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering+Student;Front-End+Developer;Back-End+Developer;Mobile+App+Developer">
@@ -106,8 +108,34 @@
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<div align="center">
-<a href="https://github.com/AnthonyErazo/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnthonyErazo&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="AnthonyErazo"/>
-</a>
-</div>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyErazo&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" />
+</p>
+
+
+<p align="center">
+  <!--- stats (start) -->
+  <table align="center">
+  <tr border="none">
+  <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AnthonyErazo&theme=gruvbox&show_icons=true&count_private=true" />
+    <br></br>
+    <img align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnthonyErazo&theme=gruvbox&layout=compact&hide_border=true" />
+    <br></br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthonyErazo&theme=gruvbox&hide_border=true"  width="520" />
+  </td>
+  
+  <td width="50%" align="center">
+    <br></br>
+    <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyErazo&theme=gruvbox&hide_border=false" /> 
+    <br></br>
+    <img align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnthonyErazo&theme=gruvbox&layout=compact&hide_border=true" />
+    <br></br>
+    
+  ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=AnthonyErazo&theme=gruvbox&column=5&no-frame=true)
+  </td>
+  </tr>
+  </table>
+<!--- stats (end) -->
+</p>   
