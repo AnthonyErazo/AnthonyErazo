@@ -113,29 +113,40 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyErazo&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" />
 </p>
 
-
-<p align="center">
-  <!--- stats (start) -->
-  <table align="center">
-  <tr border="none">
-  <td width="50%" align="center">
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AnthonyErazo&theme=gruvbox&show_icons=true&count_private=true" />
-    <br></br>
-    <img align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnthonyErazo&theme=gruvbox&layout=compact&hide_border=true" />
-    <br></br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthonyErazo&theme=gruvbox&hide_border=true"  width="520" />
-  </td>
-  
-  <td width="50%" align="center">
-    <br></br>
-    <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyErazo&theme=gruvbox&hide_border=false" /> 
-    <br></br>
-    <img align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnthonyErazo&theme=gruvbox&layout=compact&hide_border=true" />
-    <br></br>
-    
-  ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=AnthonyErazo&theme=gruvbox&column=5&no-frame=true)
-  </td>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=AnthonyErazo&theme=gruvbox&show_icons=true&hide_border=true&cache_seconds=86400"
+        alt="GitHub stats"
+      />
+      <br /><br />
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyErazo&langs_count=6&theme=gruvbox&layout=compact&hide_border=true&cache_seconds=86400"
+        alt="Top languages"
+      />
+      <br /><br />
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthonyErazo&theme=gruvbox"
+        alt="Profile details"
+        width="520"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://streak-stats.demolab.com?user=AnthonyErazo&theme=gruvbox&hide_border=true"
+        alt="GitHub streak"
+      />
+      <br /><br />
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnthonyErazo&theme=gruvbox"
+        alt="Most commit language"
+      />
+      <br /><br />
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=AnthonyErazo&theme=gruvbox&column=5&no-frame=true"
+        alt="Trophies"
+      />
+    </td>
   </tr>
-  </table>
-<!--- stats (end) -->
-</p>   
+</table>
