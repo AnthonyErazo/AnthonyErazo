@@ -6,6 +6,12 @@
   <a href="mailto:anthonyerazo76@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-anthonyerazo76-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href="https://anthonyerazo.dev" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Portfolio-anthonyerazo.dev-1d5fd8?style=flat-square&logo=vercel&logoColor=white"
+    alt="Anthony Erazo Portfolio"
+  />
+</a>
 </p>
 
 
@@ -20,16 +26,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering+Student;Front-End+Developer;Back-End+Developer;Mobile+App+Developer">
 </p>
 
-## 🚀<b> About me</b>
+## 🚀 About me
+
 <p align="center">
 
-- 👨‍💻 **Developer:** Passionate about software development, with a keen focus on front-end, back-end, and mobile app development.
+I'm **Anthony Josue Erazo Llacsahuanga**, a Full Stack Developer based in Lima, Peru. I build backend, web, and mobile solutions with cloud services and data analytics applied to digital products.
 
-- 🌱 **Currently Learning:** Enhancing my skills in `Angular` and `React`.
+- 💼 Experience delivering software for end users, B2B clients, and external organizations.
 
-- 🧠 **Interests:** Continuously seeking to learn new technologies and improve within the development field.
+- 🧩 Main stack: TypeScript, Node.js, Python, Java, Flutter, and SQL.
 
-- 🤝 **Teamwork:** I value collaboration and the exchange of ideas to enhance projects and processes.
+- ☁️ Cloud and data: AWS, Google Cloud, BigQuery, and Firebase Analytics.
+
+- 🎓 Systems Engineering at Universidad Nacional de Ingeniería and part of a double-degree program in Artificial Intelligence with Hanyang Cyber University.
+
+- 🌐 Portfolio and case studies: [anthonyerazo.dev](https://anthonyerazo.dev)
+
+- 📂 Selected projects: [anthonyerazo.dev/proyectos](https://anthonyerazo.dev/proyectos)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills and Experience</b>
 <p align="center">
